@@ -4,16 +4,14 @@ This project involves extracting URLs from an Excel file and conducting a compre
 Documentation
 (excel file)
 
-Installation 
+Installation <br>
 import pandas as pd <br>
-import os
-import requests
-from bs4 import BeautifulSoup
-import re
-import nltk from nltk.sentiment.vader
-import SentimentIntensityAnalyzer
-import textstat
-from textblob import TextBlob as tb
+import os <br>
+import requests <br>
+from bs4 import BeautifulSoup<br>
+import re<br>
+import nltk from nltk.sentiment.vader<br>
+import SentimentIntensityAnalyzer<br>
+import textstat<br>
+from textblob import TextBlob as tb<br>
 from nltk.tokenize import word_tokenize, sent_tokenize
-
-
