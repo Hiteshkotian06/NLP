@@ -1,4 +1,4 @@
-Natural Language Processing
+**Natural Language Processing** - 
 This project involves extracting URLs from an Excel file and conducting a comprehensive text and sentiment analysis on the articles found at those URLs. After retrieving the URLs, each article's content and title are extracted for analysis. The analysis includes calculating several key metrics: Positive Score, Negative Score, Polarity Score, Subjectivity Score, Average Sentence Length, Percentage of Complex Words, Fog Index, Average Number of Words per Sentence, Complex Word Count, Word Count, Syllables per Word, Personal Pronouns, and Average Word Length.
 
 Documentation
